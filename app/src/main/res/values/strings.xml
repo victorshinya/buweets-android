@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Buweets</string>
+
+    <!--  Main Activity  -->
+    <string name="input_hint">Comente sobre algo</string>
+    <string name="input_ime_action">Comentar</string>
+    <string name="progress_title">Analisando o texto</string>
+
+    <!--  Menu  -->
+    <string name="menu_settings">Configuração</string>
+
+    <!--  Placeholder  -->
+    <string name="lorem_ipsum">Lorem Ipsum</string>
+
+    <!--  Error message  -->
+    <string name="err_msg_blank_space">Não deixe espaço em branco</string>
+    <string name="err_msg_try_again">Tente novamente!</string>
+    <string name="err_msg_found">Found an error and cannot display the error message</string>
+</resources>
