@@ -13,7 +13,10 @@
     <string name="lorem_ipsum">Lorem Ipsum</string>
 
     <!--  Error message  -->
-    <string name="err_msg_blank_space">Não deixe espaço em branco</string>
+    <string name="err_msg_blank_space">Tente novamente com mais palavras</string>
     <string name="err_msg_try_again">Tente novamente!</string>
     <string name="err_msg_found">Found an error and cannot display the error message</string>
+    <string name="err_msg_no_api">API não encontrada. Tente inserir na aba de Configuração</string>
+    <string name="input_api_url">URL da sua API</string>
+    <string name="button_save">Salvar</string>
 </resources>
